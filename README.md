@@ -8,5 +8,5 @@ The USV should be operated at 30% throttle and can, with the help of two solar p
 
 ![operating](https://github.com/Jan-PhilipR/low-cost-solar-powered-USV/assets/101867352/b01219dd-cb72-4e50-8035-f69b5b11abc9)
 
-This resporitory contains all 3D models used to design the USV and the complete assembly (Solidworks). In addition, technical drawings, as well as videos and the probe setup is to be found.
+This resporitory contains all 3D models used to design the USV and the complete assembly (Solidworks). In addition, technical drawings, as well as videos and the probe setup are to be found.
 
